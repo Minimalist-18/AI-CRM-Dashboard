@@ -331,7 +331,6 @@ Implemented security features include:
 - JWT Authentication
 - bcrypt Password Hashing
 - Protected Routes
-- Owner-scoped (multi-tenant ready) data
 - Centralized Error Handling
 - Async Handler Wrapper
 - Modular Backend Architecture
